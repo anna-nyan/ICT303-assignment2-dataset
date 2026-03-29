@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "antelope"
+    },
+    {
+      "id": 1,
+      "name": "bat"
+    },
+    {
+      "id": 2,
+      "name": "bear"
+    },
+    {
+      "id": 3,
+      "name": "bee"
+    },
+    {
+      "id": 4,
+      "name": "bison"
+    },
+    {
+      "id": 5,
+      "name": "boar"
+    },
+    {
+      "id": 6,
+      "name": "cheetah"
+    },
+    {
+      "id": 7,
+      "name": "coyote"
+    },
+    {
+      "id": 8,
+      "name": "fox"
+    },
+    {
+      "id": 9,
+      "name": "hyena"
+    },
+    {
+      "id": 10,
+      "name": "leopard"
+    },
+    {
+      "id": 11,
+      "name": "lion"
+    },
+    {
+      "id": 12,
+      "name": "ox"
+    },
+    {
+      "id": 13,
+      "name": "porcupine"
+    },
+    {
+      "id": 14,
+      "name": "rhinoceros"
+    },
+    {
+      "id": 15,
+      "name": "snake"
+    },
+    {
+      "id": 16,
+      "name": "tiger"
+    },
+    {
+      "id": 17,
+      "name": "wolf"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
