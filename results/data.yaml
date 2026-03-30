@@ -1,0 +1,6 @@
+
+train: ICT303-assignment2-dataset/dataset/images/train
+val: ICT303-assignment2-dataset/dataset/images/val
+
+nc: 18
+names: ['antelope', 'bat', 'bear', 'bee', 'bison', 'boar', 'cheetah', 'coyote', 'fox', 'hyena', 'leopard', 'lion', 'ox', 'porcupine', 'rhinoceros', 'snake', 'tiger', 'wolf']
